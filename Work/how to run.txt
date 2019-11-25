@@ -1,0 +1,10 @@
+D:\MasterInsaarland\Semester2\nn\Work>conda env list
+# conda environments:
+#
+base                  *  C:\Users\Hamza-pc\Miniconda3
+nnia                     C:\Users\Hamza-pc\Miniconda3\envs\nnia
+
+
+D:\MasterInsaarland\Semester2\nn\Work>activate nnia
+
+(nnia) D:\MasterInsaarland\Semester2\nn\Work>jupyter notebook
